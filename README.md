@@ -1,9 +1,5 @@
 # todo_app
 
-A new Flutter project.
-
-## Getting Started
-
 Flutter application using Bloc, Sqflite, and shared preferences.
 
 Tasklist is a ToDo List app for Task Management inspired by the design below in the link
